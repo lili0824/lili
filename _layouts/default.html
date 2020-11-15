@@ -15,16 +15,16 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">Li Li</a></h1>
-        
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        <p class="view">Hello, my name is Li Li. 
-          I am a PhD student at University of Tübingen (Germany). 
-          I am a member of the research group "Tools and culture among early hominins" 
+
+        <p class="view">Hello! My name is Li Li.
+          I am a PhD student at University of Tübingen (Germany).
+          I am a member of the research group "Tools and culture among early hominins"
           in the Department of Early Prehistory and Quaternary Ecology. </p>
 
         {% if site.github.is_project_page %}
@@ -68,4 +68,3 @@
     {% endif %}
   </body>
 </html>
-
