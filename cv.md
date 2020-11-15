@@ -56,8 +56,25 @@ Associate, *French Academy of Science*, Paris, France
 `2020`
 Dogandzic, T., Abdolahzadeh, A., Leader, G., _Li, L._, Claudio, T., Dibble, H. L., Are the Results of Lithic Experiments Performed on Glass Cores Applicable to other Raw Materials? Archaeological and Anthropological Sciences.
 
-
 ### Posters
+
+`2020`
+“An updated review of the fracture mechanics of flaking and its implications for hominin behavior”, ESHE 2020 (European Society for the study of Human Evolution), virtual.
+
+`2020`
+“An Interdisciplinary Micro-Contextual Laboratory Excavation of Fire Residues from Pech de l’Azé IV (Dordogne, France)”, ESHE 2020 (European Society for the study of Human Evolution), virtual.
+
+`2019`
+“The Incorporation of Computer Simulation in Artifact Orientation Analysis: A Case Study of Shuidonggou Locality 2, China”, Meeting StEvE 2019, Tübingen, DE.
+
+`2019`
+“Force and Flake Size. Implications for Hominin Strength”, Annual Meeting of Paleoanthropology Society (Paleo), Albuquerque NM, USA.
+
+`2018`
+“The Effect of Raw Materials on Flake Variation”, Annual Meeting of Society for American Archaeology (SAA), Washington DC, USA.
+
+`2018`
+“Fire on Steppe: Behavioral Insights from Ephemeral Combustion Features”, 2018 International Union of The Prehistory and Protohistoric Sciences (UISPP), Paris, France.
 
 ## Grants and Awards
 
@@ -72,4 +89,4 @@ Dogandzic, T., Abdolahzadeh, A., Leader, G., _Li, L._, Claudio, T., Dibble, H. L
 Chinese: native<br />
 English: fluent
 
-*Last updated: Nov 2020*
+### Last updated: Nov 2020
