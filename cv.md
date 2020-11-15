@@ -11,14 +11,14 @@ Burgsteige 11, 72070 Tübingen, Germany
 | <a href="https://lili0824.github.io/lili/">My GitHub page</a>
 </div>
 
-### Research interests
+## Research interests
 
 Paleolithic archaeology, experimental archaeology, anthropology, computer science
 
 
 ## Academic Qualifications
 
-`Expected in 2022`
+`Expected in<br />2022`
 __University of Tübingen__
 - Ph.D. in Archaeology
 
@@ -73,7 +73,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Grants and Awards
 
 ## Languages
-Chinese: native </br>
+Chinese: native <br />
 English: fluent
 
 ### Last updated: Nov 2020
