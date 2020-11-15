@@ -7,16 +7,16 @@ layout: default
 > [View my GitHub site](https://github.com/lili0824)
 
 # CV
-> [Link to my CV](./cv.html)
+__[Link to my CV](./cv.html)__
 
 # Project Highlights
 You can find out more about the projects that I am involved in from [here](./project.md).
 
 ## PhD Thesis
-My thesis is titled _An experimental approach to reconstruct the “invisible” knapping variables from the Oldowan record_.
+My thesis is titled __An experimental approach to reconstruct the “invisible” knapping variables from the Oldowan record__.
 
 ## ARchaeology Library
-ARchaeology Library is a website created by me for people to view 3D models of archaeological sites and objects in augmented reality.
+[ARchaeology Library](https://lili0824.github.io/ARchaeology/) is a website created by me for people to view 3D models of archaeological sites and objects in augmented reality.
 
 ## Sinophobia Tracker
 [Sinophobia Tracker](https://sites.google.com/view/sinophobia-tracker/home) is a website started by [Jing Wang](https://sites.google.com/view/jingwang-space/home) and I to document the sinophobia since the 2019-nCoV outbreak and people's effort to fight against it.
