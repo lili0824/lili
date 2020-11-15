@@ -9,8 +9,10 @@ My thesis is titled _An experimental approach to reconstruct the “invisible”
 
 ## ARchaeology Library
 ![ARchaeology](https://github.com/lili0824/ARchaeology/blob/master/docs/archaeology.png)
+ARchaeology Library 
 
 ## Sinophobia tracker
 ![sino_logo](./assets/img/sino_logo.png)
 
-## Orientation
+## Tree Estimator Program
+[The Tree Estimator Program](https://github.com/lili0824/fossil) is written in Python. It takes an ultrametric tree generated based on DNA from extant taxa, landmark coordinates of all leaf nodes to compute a new phylogenetic tree with branch lengths representing morphological change between taxa.

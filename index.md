@@ -11,18 +11,18 @@ layout: default
 
 > [Link to my CV](./cv.html)
 
-# [Projects](./project.md)
+# Project Highlights
 
-## PhD Thesis
-
-> My thesis is titled _An experimental approach to reconstruct the “invisible” knapping variables from the Oldowan record_.
+### PhD Thesis
+My thesis is titled _An experimental approach to reconstruct the “invisible” knapping variables from the Oldowan record_.
 
 ## ARchaeology Library
 ARchaeology Library is a website created by me for people to view 3D models of archaeological sites and objects in augmented reality.
 
 ## Sinophobia Tracker
-> [Sinophobia Tracker](https://sites.google.com/view/sinophobia-tracker/home) is a website started by [Jing Wang](https://sites.google.com/view/jingwang-space/home) and I to document the sinophobia since the 2019-nCoV outbreak and people's effort to fight against it.
+[Sinophobia Tracker](https://sites.google.com/view/sinophobia-tracker/home) is a website started by [Jing Wang](https://sites.google.com/view/jingwang-space/home) and I to document the sinophobia since the 2019-nCoV outbreak and people's effort to fight against it.
 
-## Tree
+## Tree Estimator Program
+[The Tree Estimator Program](https://github.com/lili0824/fossil) is written in Python. It takes an ultrametric tree generated based on DNA from extant taxa, landmark coordinates of all leaf nodes to compute a new phylogenetic tree with branch lengths representing morphological change between taxa.
 
 ### You can find out more about the projects that I am involved in from [here](./project.md).
