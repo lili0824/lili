@@ -59,7 +59,7 @@ Dogandzic, T., Abdolahzadeh, A., Leader, G., _Li, L._, Claudio, T., Dibble, H. L
 
 ### Posters
 
-
+## Grants and Awards
 
 ## Research Experience
 
@@ -67,10 +67,9 @@ Dogandzic, T., Abdolahzadeh, A., Leader, G., _Li, L._, Claudio, T., Dibble, H. L
 
 ## Invited Presentations
 
-## Grants and Awards
 
 ## Languages
 Chinese: native<br />
 English: fluent
 
-### Last updated: Nov 2020
+*Last updated: Nov 2020*
