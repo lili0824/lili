@@ -1,4 +1,6 @@
-name: Li Li
-markdown: kramdown
-
+title: Li Li
+logo: /assets/img/logo.png
+description: Welcome to Li Li's personal website!
+# show_downloads: true
+# google_analytics:
 theme: jekyll-theme-minimal
