@@ -152,6 +152,14 @@ Participant; Shuidonggou Locality 2 Excavation, Institute of Vertebrate Paleonto
 `2018`
 *Invited speaker*; ‘Using Computer Simulation in Artifact Orientation Analysis’, Report from the Field Program, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, China.
 
+## Conference Panels – Organizer or Discussant Roles
+
+`2020`
+*Organizer*; Meeting StEvE 2020, University of Tübingen, virtual.
+
+`2020`
+*Organizer*; The New Methodologies in Primate Archaeology Workshop, University of Tübingen, Tübingen, DE.
+
 ## Languages
 Chinese: native<br />
 English: fluent
