@@ -145,9 +145,9 @@ h2 {
 
 
 h3 {
-	font-size: 1em;
+	font-size: 80%;
 	line-height: 2em;
-	color: #ccc;
+	color: ##808080;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
@@ -155,7 +155,7 @@ h3 {
 }
 
 a {
-	color: inherit;
+	color: #808080;
 	text-decoration:none
 }
 
