@@ -18,12 +18,9 @@ layout: default
 > My thesis is titled _An experimental approach to reconstruct the “invisible” knapping variables from the Oldowan record_.
 
 ## ARchaeology Library
-
-![ARchaeology](https://github.com/lili0824/ARchaeology/blob/master/docs/archaeology.png)
+ARchaeology Library is a website created by me for people to view 3D models of archaeological sites and objects in augmented reality.
 
 ## Sinophobia Tracker
-
-![sino_logo](./assets/img/sino_logo.png)
 > [Sinophobia Tracker](https://sites.google.com/view/sinophobia-tracker/home) is a website started by [Jing Wang](https://sites.google.com/view/jingwang-space/home) and I to document the sinophobia since the 2019-nCoV outbreak and people's effort to fight against it.
 
 ## Tree
