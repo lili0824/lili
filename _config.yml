@@ -5,5 +5,5 @@ description: Welcome to Li Li's personal website!
 # google_analytics:
 theme: jekyll-theme-minimal
 
-markdown:   kramdown
+markdown: kramdown
 style:  kjhealy
