@@ -167,9 +167,9 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	color: #424344;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 90%;
+	font-size: 100%;
 }
 
 #webaddress a {
@@ -189,6 +189,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
