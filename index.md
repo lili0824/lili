@@ -2,19 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # About Me
 
-> I am interested in understanding the link between hominin cognition and stone tool technology. My research involves conducting controlled flintknapping experiments to study the fundamental processes of flake formation and use the results to interpret the archaeological record. My work is part of the [STONECULT](https://sites.google.com/view/stonecult/home) project directed by [Dr. Claudio Tennie](https://sites.google.com/view/claudiotennie/home), which explores the early stone tools and their relationships to hominin cognition. 
+> I am interested in understanding the link between hominin cognition and stone tool technology. My research involves conducting controlled flintknapping experiments to study the fundamental processes of flake formation and use the results to interpret the archaeological record. My work is part of the [STONECULT](https://sites.google.com/view/stonecult/home) project directed by [Dr. Claudio Tennie](https://sites.google.com/view/claudiotennie/home), which explores the early stone tools and their relationships to hominin cognition.
 
-## Header 2
+
+# CV
+> 
+
+# Projects
 
 > This is a blockquote following a header.
 >
