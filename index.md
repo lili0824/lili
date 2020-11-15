@@ -2,19 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# About Me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+> I am interested in understanding the link between hominin cognition and stone tool technology. My research involves conducting controlled flintknapping experiments to study the fundamental processes of flake formation and use the results to interpret the archaeological record. My work is part of the [STONECULT](https://sites.google.com/view/stonecult/home) project directed by [Dr. Claudio Tennie](https://sites.google.com/view/claudiotennie/home), which explores the early stone tools and their relationships to hominin cognition.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# CV
+> 
 
-## Header 2
+# Projects
 
 > This is a blockquote following a header.
 >
