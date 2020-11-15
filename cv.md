@@ -10,19 +10,9 @@ University of Tübingen, Department of Prehistory Ecology and Quaternary Ecology
 | <a href="https://lili0824.github.io/lili/">My GitHub page</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Paleolithic archaeology, experimental archaeology, anthropology, computer science
 
 
 ## Academic Qualifications
