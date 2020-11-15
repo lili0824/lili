@@ -3,7 +3,7 @@ layout: cv
 title: Li Li's CV
 ---
 # Li Li
-Physicist, Mathematician, Cambridge professor.
+University of Tübingen, Department of Prehistory Ecology and Quaternary Ecology  Burgsteige 11, 72070 Tübingen, Germany
 
 <div id="webaddress">
 <a href="li.li@uni-tuebingen.de">li.li@uni-tuebingen.de</a>
