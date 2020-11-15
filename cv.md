@@ -18,7 +18,8 @@ Paleolithic archaeology, experimental archaeology, anthropology, computer scienc
 
 ## Academic Qualifications
 
-`Expected in<br />2022`
+`Expected in`  
+`2022`
 __University of Tübingen__
 - Ph.D. in Archaeology
 
@@ -47,17 +48,14 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Papers and Posters
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Papers
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
+`2020`
+Dogandzic, T., Abdolahzadeh, A., Leader, G., _Li, L._, Claudio, T., Dibble, H. L., Are the Results of Lithic Experiments Performed on Glass Cores Applicable to other Raw Materials? Archaeological and Anthropological Sciences.
 
-`1669`
-Lectiones opticæ.
+`2020`
+Dogandzic, T., Abdolahzadeh, A., Leader, G., _Li, L._, Claudio, T., Dibble, H. L., Are the Results of Lithic Experiments Performed on Glass Cores Applicable to other Raw Materials? Archaeological and Anthropological Sciences.
 
-etc. etc. etc.
 
 ### Posters
 
@@ -73,7 +71,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Grants and Awards
 
 ## Languages
-Chinese: native <br />
+Chinese: native<br />
 English: fluent
 
 ### Last updated: Nov 2020
