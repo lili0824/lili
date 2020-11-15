@@ -21,6 +21,7 @@ Paleolithic archaeology, experimental archaeology, anthropology, computer scienc
 `Expected in`
 __University of Tübingen__
 - Ph.D. in Archaeology
+
 `2022`
 
 `2017 - 2019`
@@ -50,8 +51,7 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Papers
 
-`2020`
-Dogandzic, T., Abdolahzadeh, A., Leader, G., _Li, L._, Claudio, T., Dibble, H. L., Are the Results of Lithic Experiments Performed on Glass Cores Applicable to other Raw Materials? Archaeological and Anthropological Sciences.
+`2020`	McPherron, S.P., Abdolahzadeh, A., Arche, W., Chan, A., Djakovic, I., Tamara Dogandžić, T., Leader, G.M., _Li, L._, Lin, S., Magnani, M., Reeves, J., Rezek, Z., Weiss, M., Introducing Platform Surface Interior Angle (PSIA) and Its Role in Flake Formation, Size and Shape. PLOS ONE.
 
 `2020`
 Dogandzic, T., Abdolahzadeh, A., Leader, G., _Li, L._, Claudio, T., Dibble, H. L., Are the Results of Lithic Experiments Performed on Glass Cores Applicable to other Raw Materials? Archaeological and Anthropological Sciences.
@@ -59,8 +59,7 @@ Dogandzic, T., Abdolahzadeh, A., Leader, G., _Li, L._, Claudio, T., Dibble, H. L
 
 ### Posters
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
 
 ## Research Experience
 
