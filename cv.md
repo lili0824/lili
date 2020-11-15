@@ -18,10 +18,10 @@ Paleolithic archaeology, experimental archaeology, anthropology, computer scienc
 
 ## Academic Qualifications
 
-`Expected in`  
-`2022`
+`Expected in`
 __University of Tübingen__
 - Ph.D. in Archaeology
+`2022`
 
 `2017 - 2019`
 __University of Pennsylvania__
