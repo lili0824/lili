@@ -16,13 +16,23 @@ layout: default
 ### PhD Thesis
 My thesis is titled _An experimental approach to reconstruct the “invisible” knapping variables from the Oldowan record_.
 
-## ARchaeology Library
+### ARchaeology Library
 ARchaeology Library is a website created by me for people to view 3D models of archaeological sites and objects in augmented reality.
 
-## Sinophobia Tracker
+### Sinophobia Tracker
 [Sinophobia Tracker](https://sites.google.com/view/sinophobia-tracker/home) is a website started by [Jing Wang](https://sites.google.com/view/jingwang-space/home) and I to document the sinophobia since the 2019-nCoV outbreak and people's effort to fight against it.
 
-## Tree Estimator Program
+### Tree Estimator Program
 [The Tree Estimator Program](https://github.com/lili0824/fossil) is written in Python. It takes an ultrametric tree generated based on DNA from extant taxa, landmark coordinates of all leaf nodes to compute a new phylogenetic tree with branch lengths representing morphological change between taxa.
 
 ### You can find out more about the projects that I am involved in from [here](./project.md).
+
+# Conferences and Workshops
+## [StEve 2020]()
+*Co-organizer*<br />
+*November 13<sup>th</sup> 2020, virtual*<br />
+
+## [The New Methodologies in Primate Archaeology Workshop (PRIMARK)](https://sites.google.com/view/primarch-workshop/home?authuser=0)
+*Co-organizer*<br />
+*February 27<sup>th</sup> and 28, 2020, Tübingen, DE*<br />
+The aim of PRIMARK is to bring together researchers from across various universities interested in primate archaeology. The workshop consisted of presentation and discussion sessions on the most recent approaches to studying primate archaeology. The main focus of the workshop is to share and learn about the methods that different research groups are using in order to gain insights into the evolution of human technology through the study of primate tool use.
