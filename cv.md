@@ -64,18 +64,16 @@ etc. etc. etc.
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
+## Research Experience
 
-## Occupation
+## Field Experience
 
-`1600`
-__Royal Mint__, London
+## Invited Presentations
 
-- Warden
-- Minted coins
+## Grants and Awards
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Languages
+Chinese: native </br>
+English: fluent
 
 ### Last updated: Nov 2020
