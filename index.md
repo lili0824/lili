@@ -10,7 +10,7 @@ layout: default
 
 
 # CV
-> 
+> [Link to my CV](./cv.html).
 
 # Projects
 
