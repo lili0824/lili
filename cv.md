@@ -18,7 +18,7 @@ Paleolithic archaeology, experimental archaeology, anthropology, computer scienc
 
 ## Academic Qualifications
 
-`Expected in 2022`
+Expected in 2022
 __University of Tübingen__
 - Ph.D. in Archaeology
 
@@ -78,6 +78,4 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 
-### Footer
-
-Last updated: Nov 2020
+### Last updated: Nov 2020
