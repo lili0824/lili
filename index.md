@@ -4,6 +4,7 @@ layout: default
 
 # About Me
 > I am interested in understanding the link between hominin cognition and stone tool technology. My research involves conducting controlled flintknapping experiments to study the fundamental processes of flake formation and use the results to interpret the archaeological record. My work is part of the [STONECULT](https://sites.google.com/view/stonecult/home) project directed by [Dr. Claudio Tennie](https://sites.google.com/view/claudiotennie/home), which explores the early stone tools and their relationships to hominin cognition.
+> [View my GitHub site](https://github.com/lili0824)
 
 # CV
 > [Link to my CV](./cv.html)
