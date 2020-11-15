@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Li Li's CV
 ---
-# Isaac Newton
+# Li Li
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="li.li@uni-tuebingen.de">li.li@uni-tuebingen.de</a>
+| <a href="https://lili0824.github.io/lili/">My GitHub page</a>
 </div>
 
 
@@ -25,22 +25,25 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Academic Qualifications
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected in 2022`
+__University of Tübingen__
+- Ph.D. in Archaeology
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017 - 2019`
+__University of Pennsylvania__
 
-- Sizar
+- M.S. in Anthropology
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2015 - 2017`
+__University of California, Davis__
 
-- Fellow
+- M.S. in Computer Science
 
-
+`2009 - 2013`
+__University of Nebraska at Omaha__
+- B.S. in Management Information Systems (Magna Cum Laude), minor in Computer Science
 
 ## Awards
 
@@ -51,21 +54,21 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
+## Papers and Posters
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Papers
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
+### Posters
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
@@ -87,5 +90,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
