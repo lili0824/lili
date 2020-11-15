@@ -133,6 +133,7 @@ h1+p {
 }
 
 h2 {
+	font-style: bold;
 	font-size: 1.1em;
 	color: #000000;
 	margin-top: 2em;
@@ -166,9 +167,9 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 28%;
-	color: #424344 ;
+	color: #808080 ;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 100%;
+	font-size: 90%;
 }
 
 #webaddress a {
