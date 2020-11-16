@@ -24,7 +24,7 @@ My thesis is titled __An experimental approach to reconstruct the â€œinvisibleâ€
 
 [To my GitHub repositories](https://github.com/lili0824?tab=repositories).
 
-# Conferences and Workshops
+# [Conferences and Workshops](./conference.md)
 ## [Meeting StEvE 2020](https://uni-tuebingen.de/en/180663)
 *November 13<sup>th</sup> 2020, virtual*<br />
 *Co-organizer*<br />
