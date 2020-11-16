@@ -29,6 +29,6 @@ My thesis is titled __An experimental approach to reconstruct the “invisible�
 *November 13<sup>th</sup> 2020, virtual*<br />
 *Co-organizer*<br />
 
-## [PRIMARK](./conference.md)
+## [PRIMARCH](./conference.md)
 *February 27<sup>th</sup> and 28, 2020, Tübingen, DE*<br />
 *Co-organizer*<br />
