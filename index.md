@@ -24,11 +24,11 @@ My thesis is titled __An experimental approach to reconstruct the “invisible�
 
 [To my GitHub repositories](https://github.com/lili0824?tab=repositories).
 
-# [Conferences and Workshops](./conference.md)
-## [Meeting StEvE 2020](https://uni-tuebingen.de/en/180663)
+# Conferences and Workshops
+## [Meeting StEvE 2020](./conference.md)
 *November 13<sup>th</sup> 2020, virtual*<br />
 *Co-organizer*<br />
 
-## [PRIMARK](https://sites.google.com/view/primarch-workshop/home?authuser=0)
+## [PRIMARK](./conference.md)
 *February 27<sup>th</sup> and 28, 2020, Tübingen, DE*<br />
 *Co-organizer*<br />
