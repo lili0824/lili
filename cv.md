@@ -68,7 +68,7 @@ Dogandzic, T., Abdolahzadeh, A., Leader, G., _Li, L._, Claudio, T., Dibble, H. L
 “The Incorporation of Computer Simulation in Artifact Orientation Analysis: A Case Study of Shuidonggou Locality 2, China”, Meeting StEvE 2019, Tübingen, DE.
 
 `2019`
-“Force and Flake Size. Implications for Hominin Strength”, Annual Meeting of Paleoanthropology Society (Paleo), Albuquerque NM, USA.
+“Force and Flake Size. Implications for Hominin Strength”, Annual Meeting of Paleoanthropology Society (Paleo), Albuquerque, NM, USA.
 
 `2018`
 “The Effect of Raw Materials on Flake Variation”, Annual Meeting of Society for American Archaeology (SAA), Washington DC, USA.
@@ -155,10 +155,10 @@ Participant; Shuidonggou Locality 2 Excavation, Institute of Vertebrate Paleonto
 ## Conference Panels – Organizer or Discussant Roles
 
 `2020`
-*Organizer*; Meeting StEvE 2020, University of Tübingen, virtual.
+*Co-organizer*; Meeting StEvE 2020, University of Tübingen, virtual.
 
 `2020`
-*Organizer*; The New Methodologies in Primate Archaeology Workshop, University of Tübingen, Tübingen, DE.
+*Co-organizer*; The New Methodologies in Primate Archaeology Workshop, University of Tübingen, Tübingen, DE.
 
 ## Languages
 Chinese: native<br />
