@@ -10,7 +10,7 @@ The emergence and development of chipped stone technology delineate the trajecto
 My thesis project aims to connect the currently invisible aspects of stone tool production to tangible lithic attributes to further explore the rationale behind the technical decisions made by the early hominins. The primary research question is: How did early hominins control angle of blow and striking force to produce the tools we see in the archaeological record? I will address the research question via a series of controlled lithic experiments followed by a study of the archaeological assemblages.
 
 ## ARchaeology Library
-![ARchaeology](/assets/img/archaeology.png)<br />
+![ARchaeology](/assets/img/archaeology.png)<br /> ![ARchaeology](/assets/img/ar.png)<br />
 [ARchaeology Library](https://lili0824.github.io/ARchaeology/) is created for people to view archaeological sites and objects in augmented reality. You can simply scan the QR code with your phone to go to the website and start playing with the 3D models.
 
 ## Sinophobia Tracker
