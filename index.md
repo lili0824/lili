@@ -14,7 +14,7 @@ __[Link to my CV](./cv.html)__
 You can find out more about the projects that I am involved in from [here](./project.md).
 
 ## PhD Thesis
-My thesis is titled __An experimental approach to reconstruct the “invisible” knapping variables from the Oldowan record__.
+My [thesis](./project.md) is titled __An experimental approach to reconstruct the “invisible” knapping variables from the Oldowan record__.
 
 ## ARchaeology Library
 [ARchaeology Library](https://lili0824.github.io/ARchaeology/) is a website created by me for people to view 3D models of archaeological sites and objects in augmented reality.
