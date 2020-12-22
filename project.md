@@ -8,11 +8,11 @@ layout: default
 My thesis is titled __An experimental approach to reconstruct the “invisible” knapping variables from the Oldowan record__.   
 My thesis project aims to connect the currently invisible aspects of stone tool production to tangible lithic attributes to further explore the rationale behind the technical decisions made by the early hominins.
 
-## ARchaeology Library
+## [ARchaeology Library](https://lili0824.github.io/ARchaeology/)
 ![ARchaeology](/assets/img/archaeology.png)<br />
 [ARchaeology Library](https://lili0824.github.io/ARchaeology/) is created for people to view archaeological sites and objects in augmented reality. You can simply scan the QR code with your phone to go to the website and start playing with the 3D models.
 
-## Sinophobia Tracker
+## [Sinophobia Tracker](https://sites.google.com/view/sinophobia-tracker/home)
 ![sino_logo](./assets/img/sino_logo.png)<br />
 This [site](https://sites.google.com/view/sinophobia-tracker/home) is an effort to archive and document the information on Sinophobia, its spill-over effects, and on people's efforts to counter such trends worldwide during the CoronaVirus (2019-nCoV or COVID-19) outbreak for future alarms against racism and xenophobia.
 
