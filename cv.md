@@ -188,4 +188,4 @@ Teaching Assistant; ECS 15, Introduction to Computing, University of California,
 Chinese: native<br />
 English: fluent
 
-### Last updated: Nov 2020
+### Last updated: Jan 2021
