@@ -50,6 +50,7 @@ Associate, *French Academy of Science*, Paris, France
 ## Papers and Posters
 
 ### Papers
+`2021` _Li, L._, Lin, S. C., Peng, F., Patania, I., Guo, J., Wang, H., & Gao, X. Simulating the impact of ground surface morphology on archaeological orientation patterning. Journal of Archaeological Science.
 
 `2020`	McPherron, S.P., Abdolahzadeh, A., Arche, W., Chan, A., Djakovic, I., Tamara Dogandžić, T., Leader, G.M., _Li, L._, Lin, S., Magnani, M., Reeves, J., Rezek, Z., Weiss, M., Introducing Platform Surface Interior Angle (PSIA) and Its Role in Flake Formation, Size and Shape. PLOS ONE.
 
@@ -135,6 +136,29 @@ Participant; Pech de l'Azé IV Excavation, University of Pennsylvania, Universit
 
 `2016`
 Participant; Shuidonggou Locality 2 Excavation, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences.
+
+## Teaching Experience
+
+`2019`
+Teaching Assistant; ANTH 122, Becoming Human, University of Pennsylvania.
+
+`2018`
+Teaching Assistant; ANTH 003, Introduction to Human Evolution, University of Pennsylvania.
+
+`2017`
+Teaching Assistant; ECS 10, Introduction to Programming, University of California, Davis.
+
+`2017`
+Teaching Assistant; ECS 12, Introduction to Media Computing, University of California, Davis.
+
+`2016`
+Teaching Assistant; ECS 132, Probability and Statistical Model for Computer Science, University of California, Davis.
+
+`2016`
+Teaching Assistant; ECS 10, Introduction to Programming, University of California, Davis
+
+`2016`
+Teaching Assistant; ECS 15, Introduction to Computing, University of California, Davis
 
 ## Academic Presentations
 `2020`
