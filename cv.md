@@ -38,15 +38,6 @@ __University of California, Davis__
 __University of Nebraska at Omaha__
 - B.S. in Management Information Systems (Magna Cum Laude), minor in Computer Science
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
 ## Papers and Posters
 
 ### Papers
@@ -187,5 +178,11 @@ Teaching Assistant; ECS 15, Introduction to Computing, University of California,
 ## Languages
 Chinese: native<br />
 English: fluent
+
+## Programming languages
+Python<br />
+R<br />
+Java<br />
+SQL<br />
 
 ### Last updated: Jan 2021
