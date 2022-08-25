@@ -18,8 +18,7 @@ Paleolithic archaeology, experimental archaeology, anthropology, computer scienc
 
 ## Academic Qualifications
 
-`Expected in`<br />
-`2022`
+`2019 - 2022`
 __University of Tübingen__
 - Ph.D. in Archaeology
 
